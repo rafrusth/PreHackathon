@@ -1,0 +1,22 @@
+
+# Tema : Lifestyle
+# Output : Aplikasi
+# Tech : Flutter
+
+** Produk nyo
+
+- A. syinau nyusun proposal :
+- - a. Analisis masalah (konsumen butuh apa? untuk fitur di apk yang membuat improve lifestyle mereka)
+- - b. Aplication flow (buka apk -> home screen -> login? -> Register? -> tampilan awal -> map ke tab tab berikutnya -> etc) alur	 aplikasi
+- - c. Solusi dari masalah
+- - d. inovasi yang bikin beda
+- - e. other yap yap stuff
+
+** Tech nyo
+
+- syinau pake git/github 
+- syinau instal flutter
+- syinau design, dan widget di flutter (UI UX)
+- syinau integrasi teknologi kekinian (AI stuff -> backend kecil)
+
+Note : ntar kalo ada yang perlu di syinau-in lagi tulis aja!
